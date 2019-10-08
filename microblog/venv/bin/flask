@@ -1,4 +1,4 @@
-#!/home/youssef-development/Projects/practice-set/microblog/venv/bin/python3
+#!/home/youssef/study/practice-set/microblog/venv/bin/python2
 # -*- coding: utf-8 -*-
 import re
 import sys
